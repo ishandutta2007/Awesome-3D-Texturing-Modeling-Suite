@@ -73,43 +73,43 @@ The sector is **moderately concentrated to oligopolistic**, dominated by an entr
 
 ### Top Repositories (Ranked by Stars)
 
-1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
    **Parametric 3D CAD modeler for engineering, mechanical design, and architecture.** Built on Open CASCADE Technology with an extensible Python API. Features dedicated workbenches for parametric solids, technical drawings, BIM, and FEM simulation.  
    *Use Case*: Precision modeling, technical engineering parts, and mechanical assemblies.
 
-2. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+2. **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
    **The premier open-source all-in-one 3D creation suite.** Covers modeling, sculpting, UV unwrapping, texture painting, material authoring, rigging, character animation, grease pencil 2D/3D, geometry nodes, and production rendering via **Cycles** (path-tracer) and **EEVEE Next** (real-time). Completely free with no feature paywalls or royalty strings.  
    *Use Case*: Complete end-to-end 3D production for animation, VFX, gaming, and concept art.
 
-3. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+3. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    **Modern library for 3D data processing, surface reconstruction, and spatial computing.** Provides clean C++ and Python APIs for 3D point cloud registration, mesh processing, voxelization, physical simulation, and GPU-accelerated rendering.  
    *Use Case*: 3D computer vision, spatial computing, LiDAR processing, and mesh generation.
 
-4. **[Meshroom](https://github.com/alicevision/Meshroom)** [![GitHub Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)  
+4. **[Meshroom](https://github.com/alicevision/Meshroom)** [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)  
    **Open-source 3D photogrammetry and surface reconstruction software.** Powered by the AliceVision framework, Meshroom turns photographs into dense 3D meshes with automatic texture generation and node-graph pipeline execution.  
    *Use Case*: Reality capture, scan-based asset creation, and 3D environment reproduction.
 
-5. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
+5. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
    **The programmers' solid 3D CAD modeler.** Focuses on constructive solid geometry (CSG) using a specialized script programming language rather than interactive GUI drawing. Completely deterministic and version-control friendly.  
    *Use Case*: Procedural 3D models, 3D printing components, and parameter-driven geometries.
 
-6. **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers)  
+6. **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub_Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers)  
    **Procedural texture authoring and 3D model painting suite.** Built on Godot, providing an intuitive node-based material graph similar to Substance Designer, paired with a 3D viewport for painting multi-layer materials directly onto meshes.  
    *Use Case*: Node-driven procedural PBR textures, patterns, and brush-based 3D model texturing.
 
-7. **[MeshLab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
+7. **[MeshLab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub_Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
    **Advanced system for processing, cleaning, filtering, and editing unstructured 3D triangular meshes.** Ideal for cleaning photogrammetry outputs, polygon decimation, UV unwrapping assistance, and curvature smoothing.  
    *Use Case*: High-density polygon inspection, mesh repair, normal realignment, and scan simplification.
 
-8. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+8. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
    **Standalone physically based 3D texture painting software.** Features hardware-accelerated GPU baking, node-based material authoring, layer masks, and real-time ray-traced viewport painting.  
    *Use Case*: Direct PBR texture painting onto 3D models as an open-source alternative to Substance Painter.
 
-9. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers)  
+9. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub_Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers)  
    **Rapid 3D modeling and auto-rigging software.** Generates watertight base meshes from simple 2D reference profiles within minutes. Features automatic UV unwrapping, auto-rigging, and PBR material assignments.  
    *Use Case*: Quick game character prototyping, game jam asset creation, and low-poly 3D printing.
 
-10. **[ArmorLab](https://github.com/armory3d/armorlab)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorlab?style=social&color=white)](https://github.com/armory3d/armorlab/stargazers)  
+10. **[ArmorLab](https://github.com/armory3d/armorlab)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorlab?style=social&color=white)](https://github.com/armory3d/armorlab/stargazers)  
     **AI-powered texture generation and PBR material authoring.** Leverages machine learning and node-based image processing to transform photos into seamless PBR materials (albedo, normal, roughness, height).  
     *Use Case*: Photo-to-PBR conversion, seamless texture tiling, and AI-assisted material enhancement.
 
@@ -142,7 +142,7 @@ Contributions are welcome and appreciated! To maintain high standards:
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-suite`).
 3. ✏️ **Add/edit entries in `README.md`**:
    - For **SaaS**: Ensure exact starting prices, company valuation/revenue, and specific free tier or trial conditions.
-   - For **Open-Source**: Ensure a valid GitHub repository with a stargazers link badge (`?style=social&color=white`) and sort by stars descending.
+   - For **Open-Source**: Ensure a valid GitHub repository with a stargazers link badge (`?style=social&color=white`) and sort by GitHub_Stars descending.
 4. 🚀 **Commit & submit a Pull Request** with a concise description of changes.
 
 ---
